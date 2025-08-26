@@ -1,0 +1,6 @@
+[submodule "BridgeMe-Back"]
+	path = BridgeMe-Back
+	url = https://github.com/StepByCode/BridgeMe-Back.git
+[submodule "BridgeMe-Front"]
+	path = BridgeMe-Front
+	url = https://github.com/StepByCode/BridgeMe-Front.git
